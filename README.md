@@ -12,9 +12,10 @@
 
 ## SQL
 
-* For starters:
-    [W3School - SQL](https://www.w3schools.com/sql/)
+* For starters, what is SQL:
+    [Medium article - know SQL in 2018](https://medium.com/employbl/know-sql-in-2018-da375106fc4f)
 * Now you want to practice: 
+    1. [W3School - SQL](https://www.w3schools.com/sql/)
     1. [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
     1. [SQL Tutorial by Mode Analytics](https://mode.com/sql-tutorial/introduction-to-sql/)
 * SQL Style Guide: 
