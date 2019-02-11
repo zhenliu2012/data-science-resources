@@ -2,6 +2,8 @@
 
 ## Stats
 
+> Books, courses, ...
+
 [Probability Distributions](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 
 ## Baseline CS (data structures)
@@ -10,7 +12,7 @@
 
 ## SQL
 
-* For starters who are wondering WTF is SQL:
+* For starters:
 [W3School - SQL](https://www.w3schools.com/sql/)
 * Now you want to practice: 
     1. [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
@@ -21,11 +23,11 @@
 
 ## Python Basics
 
-* For starters to warm up: 
+* To warm up: 
 [learnpython](https://www.learnpython.org/) 
 * More detailed tutorial:
 [Python3 Tutorial](https://docs.python.org/3/tutorial/)
-* Want to practice:
+* Looking to practice:
     1. [100 Numpy Exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/)
     1. [Project Euler](https://projecteuler.net/archives)
 
