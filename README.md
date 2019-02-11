@@ -1,26 +1,33 @@
 # Data Science Resources
 
-## Data Structures (CS)
+## Stats
 
-> [Runestone - Algorithms & Data Structures in Python](https://runestone.academy/runestone/static/pythonds/index.html)
+[Probability Distributions](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
+
+## Baseline CS (data structures)
+
+[Runestone - Algorithms & Data Structures in Python](https://runestone.academy/runestone/static/pythonds/index.html)
 
 ## SQL
 
-* For starters:
-> [W3School - SQL](https://www.w3schools.com/sql/)
-* Want to practice: 
-> [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial) AND [SQL Tutorial by Mode Analytics](https://mode.com/sql-tutorial/introduction-to-sql/)
+* For starters who are wondering WTF is SQL:
+[W3School - SQL](https://www.w3schools.com/sql/)
+* Now you want to practice: 
+    1. [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
+    1. [SQL Tutorial by Mode Analytics](https://mode.com/sql-tutorial/introduction-to-sql/)
 * SQL Style Guide: 
-> [Style Guide 1](https://gist.github.com/fredbenenson/7bb92718e19138c20591) OR [Style Guide 2](https://github.com/haleemur/sql-style-guide) 
+    1. [Style Guide 1](https://gist.github.com/fredbenenson/7bb92718e19138c20591) OR 
+    1. [Style Guide 2](https://github.com/haleemur/sql-style-guide) 
 
 ## Python Basics
 
 * For starters to warm up: 
-> [learnpython](https://www.learnpython.org/) 
+[learnpython](https://www.learnpython.org/) 
 * More detailed tutorial:
-> [Python3 Tutorial](https://docs.python.org/3/tutorial/)
+[Python3 Tutorial](https://docs.python.org/3/tutorial/)
 * Want to practice:
-> [100 Numpy Exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/) AND [Project Euler](https://projecteuler.net/archives)
+    1. [100 Numpy Exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/)
+    1. [Project Euler](https://projecteuler.net/archives)
 
 ## Machine Learning
 
@@ -28,4 +35,4 @@
 
 ## Online Course
 
-> [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
+[IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
