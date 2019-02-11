@@ -13,7 +13,7 @@
 ## SQL
 
 * For starters, what is SQL:
-    [Medium article - know SQL in 2018](https://medium.com/employbl/know-sql-in-2018-da375106fc4f)
+    [Medium article](https://medium.com/xplenty-blog/the-sql-vs-nosql-difference-mysql-vs-mongodb-32c9980e67b2)
 * Now you want to practice: 
     1. [W3School - SQL](https://www.w3schools.com/sql/)
     1. [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
