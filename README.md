@@ -14,7 +14,7 @@ Data structures
 
 ## SQL
 
-SQL is one of the most important languages in data science. Relational databases only talk to people who 'speak' SQL.
+SQL is one of the most important languages in data science. Relational databases only talk to people who _speak_ SQL.
 
 * For starters:
     1. [SQL vs NoSQL](https://medium.com/xplenty-blog/the-sql-vs-nosql-difference-mysql-vs-mongodb-32c9980e67b2)
@@ -37,10 +37,14 @@ SQL is one of the most important languages in data science. Relational databases
     1. [Project Euler](https://projecteuler.net/archives)
     1. [HackerRank](https://www.hackerrank.com/)
 
+## Python Pandas
+
+* [Medium article - How to Learn Pandas](https://medium.com/dunder-data/how-to-learn-pandas-108905ab4955)
+
 ## Machine Learning
 
 > TBD
 
 ## Online Course
 
-[IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
+1. [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
