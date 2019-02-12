@@ -2,18 +2,22 @@
 
 ## Stats
 
-> Books, courses, ...
+> Books, courses or get a degree ...
 
-[Probability Distributions](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
+1. [Probability Distributions](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 
-## Baseline CS (data structures)
+## Baseline CS 
 
-[Runestone - Algorithms & Data Structures in Python](https://runestone.academy/runestone/static/pythonds/index.html)
+Data structures
+
+1. [Runestone - Algorithms & Data Structures in Python](https://runestone.academy/runestone/static/pythonds/index.html)
 
 ## SQL
 
+SQL is one of the most important languages in data science. Relational databases only talk to people who 'speak' SQL.
+
 * For starters:
-    [SQL vs NoSQL](https://medium.com/xplenty-blog/the-sql-vs-nosql-difference-mysql-vs-mongodb-32c9980e67b2)
+    1. [SQL vs NoSQL](https://medium.com/xplenty-blog/the-sql-vs-nosql-difference-mysql-vs-mongodb-32c9980e67b2)
 * Now you want to practice: 
     1. [W3School - SQL](https://www.w3schools.com/sql/)
     1. [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
@@ -25,12 +29,13 @@
 ## Python Basics
 
 * To warm up: 
-    [learnpython](https://www.learnpython.org/) 
+    1. [learnpython](https://www.learnpython.org/) 
 * More detailed tutorial:
-    [Python3 Tutorial](https://docs.python.org/3/tutorial/)
+    1. [Python3 Tutorial](https://docs.python.org/3/tutorial/)
 * Looking to practice:
     1. [100 Numpy Exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/)
     1. [Project Euler](https://projecteuler.net/archives)
+    1. [HackerRank](https://www.hackerrank.com/)
 
 ## Machine Learning
 
