@@ -4,13 +4,13 @@
 
 > Books, courses or get a degree ...
 
-1. [Probability Distributions](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
+* [Probability Distributions](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 
 ## Baseline CS 
 
 Data structures
 
-1. [Runestone - Algorithms & Data Structures in Python](https://runestone.academy/runestone/static/pythonds/index.html)
+* [Runestone - Algorithms & Data Structures in Python](https://runestone.academy/runestone/static/pythonds/index.html)
 
 ## SQL
 
@@ -47,4 +47,4 @@ SQL is one of the most important languages in data science. Relational databases
 
 ## Online Course
 
-1. [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
+* [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
