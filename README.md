@@ -1,5 +1,7 @@
 # Data Science Resources
 
+I'm putting together some helpful public web resources I've gathered to get you started in data science.
+
 ## Stats
 
 * Books, courses or get a degree ...
