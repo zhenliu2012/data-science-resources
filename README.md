@@ -1,10 +1,11 @@
 # Data Science Resources
 
-I'm putting together some helpful public web resources I've gathered to get you started in data science.
+I'm putting together some useful public web resources to get you started in data science, wait a sec, what is [data science](https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/) btw?
 
 ## Stats
 
-* Books, courses or get a degree ...
+**IMPORTANT:** read books, complete courses or get a degree ...
+* [Basics of Probability for Data Science](https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/)
 * [Probability Distributions](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 
 ## Baseline CS 
