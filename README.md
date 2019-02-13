@@ -9,9 +9,9 @@ I'm putting together some helpful public web resources I've gathered to get you 
 
 ## Baseline CS 
 
-Data structures
-
-* [Runestone - Algorithms & Data Structures in Python](https://runestone.academy/runestone/static/pythonds/index.html)
+* Data structures
+    * [Medium article - Top Algorithms and Data Structures](https://towardsdatascience.com/top-algorithms-and-data-structures-you-really-need-to-know-ab9a2a91c7b5)
+    * [Runestone - Algorithms & Data Structures in Python](https://runestone.academy/runestone/static/pythonds/index.html)
 
 ## Database
 
@@ -23,23 +23,23 @@ Data structures
 SQL is one of the most important languages in data science. When data scientists need to talk to relational databases, they need to _speak_ SQL.
 
 * Learn and practice: 
-    1. [W3School - SQL](https://www.w3schools.com/sql/)
-    1. [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
-    1. [SQL Tutorial by Mode Analytics](https://mode.com/sql-tutorial/introduction-to-sql/)
+    * [W3School - SQL](https://www.w3schools.com/sql/)
+    * [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
+    * [SQL Tutorial by Mode Analytics](https://mode.com/sql-tutorial/introduction-to-sql/)
 * SQL Style Guide: 
-    1. [Style Guide 1](https://gist.github.com/fredbenenson/7bb92718e19138c20591) OR 
-    1. [Style Guide 2](https://github.com/haleemur/sql-style-guide) 
+    * [Style Guide 1](https://gist.github.com/fredbenenson/7bb92718e19138c20591) OR 
+    * [Style Guide 2](https://github.com/haleemur/sql-style-guide) 
 
 ## Python Basics
 
 * To warm up: 
-    1. [learnpython](https://www.learnpython.org/) 
+    * [learnpython](https://www.learnpython.org/) 
 * More detailed tutorial:
-    1. [Python3 Tutorial](https://docs.python.org/3/tutorial/)
+    * [Python3 Tutorial](https://docs.python.org/3/tutorial/)
 * Looking to practice:
-    1. [100 Numpy Exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/)
-    1. [Project Euler](https://projecteuler.net/archives)
-    1. [HackerRank](https://www.hackerrank.com/)
+    * [100 Numpy Exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/)
+    * [Project Euler](https://projecteuler.net/archives)
+    * [HackerRank](https://www.hackerrank.com/)
 
 ## Python Pandas
 
