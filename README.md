@@ -12,13 +12,16 @@ Data structures
 
 * [Runestone - Algorithms & Data Structures in Python](https://runestone.academy/runestone/static/pythonds/index.html)
 
+## Database
+
+* [Medium article - SQL vs NoSQL](https://medium.com/xplenty-blog/the-sql-vs-nosql-difference-mysql-vs-mongodb-32c9980e67b2)
+* [Medium article - Introduction to Distributed Systems](https://medium.freecodecamp.org/a-thorough-introduction-to-distributed-systems-3b91562c9b3c)
+
 ## SQL
 
-SQL is one of the most important languages in data science. Relational databases only talk to people who _speak_ SQL.
+SQL is one of the most important languages in data science ->_-> When data scientists need to talk to relational databases, they need to _speak_ SQL.
 
-* For starters:
-    1. [SQL vs NoSQL](https://medium.com/xplenty-blog/the-sql-vs-nosql-difference-mysql-vs-mongodb-32c9980e67b2)
-* Now you want to practice: 
+* Learn and practice: 
     1. [W3School - SQL](https://www.w3schools.com/sql/)
     1. [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
     1. [SQL Tutorial by Mode Analytics](https://mode.com/sql-tutorial/introduction-to-sql/)
