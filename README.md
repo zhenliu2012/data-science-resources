@@ -2,8 +2,7 @@
 
 ## Stats
 
-> Books, courses or get a degree ...
-
+* Books, courses or get a degree ...
 * [Probability Distributions](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 
 ## Baseline CS 
