@@ -21,6 +21,11 @@ I'm putting together some useful public web resources to get you started in data
 
 ### Git
 
+Version control should be the very first thing to start with. 
+
+* [Medium article - Git Basics](https://medium.freecodecamp.org/what-is-git-and-how-to-use-it-c341b049ae61)
+* [Medium article - Git expert](https://medium.freecodecamp.org/how-to-become-a-git-expert-e7c38bf54826)
+
 ### SQL
 
 SQL is one of the most important languages in data science. When data scientists talk to relational databases, they need to _speak_ SQL.
